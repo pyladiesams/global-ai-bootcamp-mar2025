@@ -4,7 +4,7 @@ The Global AI Bootcamp is an annual event that occurs worldwide, where developer
 
 ## Global AI Bootcamp 2025 Keynote 
 
-In this year's keynote, Roelant, Sammy, and Henk from the Global AI Community team up with well-known speakers like Scott Hanselman, Guido van Rossum, Jennifer Marsman, and Sarah Bird to talk about how AI is changing the game for developers. They explain how Python is a big deal in this shift and show off the latest cool stuff happening with AI agents. Throughout their chat, they stress how important it is for developers to pick up AI skills while also thinking about doing things ethically and responsibly. This straightforward discussion gives a clear picture of where AI is today and what it might mean for developers in the future.
+In this year's keynote, the Global AI Community teams up with well-known speakers like Scott Hanselman, Guido van Rossum, Jennifer Marsman, and Sarah Bird to talk about how AI is changing the game for developers. They explain how Python is a big deal in this shift and show off the latest cool stuff happening with AI agents. Throughout their chat, they stress how important it is for developers to pick up AI skills while also thinking about doing things ethically and responsibly. This straightforward discussion gives a clear picture of where AI is today and what it might mean for developers in the future.
 
 Watch the keynote "Embracing New Skills and Responsibilities" [here](link)
 
@@ -47,7 +47,7 @@ The workshop instructor will provide you with an event key that you will use dur
 These workshops are also set up for self-guided learning at home. In this case, you need to have your own Azure Subscription to work on the exercises. 
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://youtube.com/live/T_kEHZuEIig)
 
 ## Credits
 This event was set up by @pyladiesams, Global AI Community
