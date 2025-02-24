@@ -6,7 +6,7 @@ The Global AI Bootcamp is an annual event that occurs worldwide, where developer
 
 In this year's keynote, the Global AI Community teams up with well-known speakers like Scott Hanselman, Guido van Rossum, Jennifer Marsman, and Sarah Bird to talk about how AI is changing the game for developers. They explain how Python is a big deal in this shift and show off the latest cool stuff happening with AI agents. Throughout their chat, they stress how important it is for developers to pick up AI skills while also thinking about doing things ethically and responsibly. This straightforward discussion gives a clear picture of where AI is today and what it might mean for developers in the future.
 
-Watch the keynote "Embracing New Skills and Responsibilities" [here](link)
+Watch the keynote "Embracing New Skills and Responsibilities" [here](https://keynote.globalaibootcamp.com/)
 
 ## Workshops description
 
@@ -18,7 +18,7 @@ Duration: 60 Minutes
 
 Level: Beginner
 
-[Go to the workshop](link)
+[Go to the workshop](https://workshop-github-models.globalaibootcamp.com/)
 
 ### Workshop 2 - Build your first agent with Azure AI Agent Service
 
@@ -28,7 +28,7 @@ Duration: 90 Minutes
 
 Level: Moderate
 
-[Go to the workshop](link)
+[Go to the workshop](https://workshop-ai-agents.globalaibootcamp.com/)
 
 ### Workshop 3 - Building a RAG with PostgreSQL
 
@@ -38,7 +38,7 @@ Duration: 75 Minutes
 
 Level: Intermediate
 
-[Go to the workshop](link)
+[Go to the workshop](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-genai-on-postgresql)
 
 ## Usage 
 
