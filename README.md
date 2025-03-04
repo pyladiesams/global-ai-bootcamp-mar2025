@@ -47,7 +47,7 @@ The workshop instructor will provide you with an event key that you will use dur
 These workshops are also set up for self-guided learning at home. In this case, you need to have your own Azure Subscription to work on the exercises. 
 
 ## Video record
-Re-watch [this YouTube stream](https://youtube.com/live/T_kEHZuEIig)
+Re-watch [this YouTube stream]()
 
 ## Credits
 This event was set up by @pyladiesams, Global AI Community
